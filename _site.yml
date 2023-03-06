@@ -1,0 +1,12 @@
+name: "multi-interaction-symposium"
+output_dir: "docs"
+navbar:
+  title: "Multi-interaction symposium"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Speakers"
+      href: speakers.html
+output:
+  html_document:
+    theme: simplex
