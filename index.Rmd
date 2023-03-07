@@ -1,5 +1,6 @@
 ---
 title: "Multi-interaction socio-ecological networks"
+output: html_document
 ---
 
 
