@@ -2,12 +2,23 @@
 title: "Speakers"
 ---
 
-Preliminary list of speakers: 
 
-Angela Guerrero, Queensland University of Technology (Australia). Contacted and confirmed her presence.
-Sergio Timoteo, University of Coimbra (Portugal). Contacted and confirmed his presence. 
-Kayla Hale, University of Michigan (USA). Contacted and confirmed her presence.
-Spencer Wood, University of Washington (USA). Contacted and confirmed his presence.
-Vincent Miele, CNRS, Lyon (France). Contacted and confirmed his presence.
-Agustin Vitali, Ben-Gurion University of the Negev (Israel). Contacted and confirmed his presence.
+### Preliminary list of speakers: 
+
+Kayla Hale, University of Michigan (USA). 
+
+Angela Guerrero, Queensland University of Technology (Australia). 
+
+Marco A.R. Mello, University of São Paulo (Brazil). 
+
+Vincent Miele, CNRS, Lyon (France). 
+
+Sergio Timoteo, University of Coimbra (Portugal). 
+
+Agustin Vitali, Ben-Gurion University of the Negev (Israel). 
+
+Spencer Wood, University of Washington (USA). 
+
+
+
 
