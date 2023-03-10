@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Speakers"
       href: speakers.html
+    - text: "Program"
+      href: program.html
 output:
   html_document:
     theme: simplex
