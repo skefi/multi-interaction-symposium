@@ -3,22 +3,31 @@ title: "Speakers"
 output: html_document
 ---
 
+<br />
+
+### Interested in applying for a talk in the symposium? 
+
+See [here](https://skefi.github.io/multi-interaction-symposium/index.html)
+
+<br />
 
 ### Preliminary list of speakers: 
 
-Kayla Hale, University of Michigan (USA). 
+<br />
 
-Angela Guerrero, Queensland University of Technology (Australia). 
+[Kayla Hale](https://lsa.umich.edu/eeb/people/graduate-students/kayla-sale-hale.html), University of Michigan (USA). 
 
-Marco A.R. Mello, University of São Paulo (Brazil). 
+[Angela Guerrero](https://www.qut.edu.au/about/our-people/academic-profiles/angela.guerrero), Queensland University of Technology (Australia). 
 
-Vincent Miele, CNRS, Lyon (France). 
+[Marco A.R. Mello](https://marcomellolab.wordpress.com/), University of São Paulo (Brazil). 
 
-Sergio Timoteo, University of Coimbra (Portugal). 
+[Vincent Miele](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/miele-vincent), CNRS, Lyon (France). 
 
-Agustin Vitali, Ben-Gurion University of the Negev (Israel). 
+[Sergio Timoteo](https://cfe.uc.pt/profile/members/1700), University of Coimbra (Portugal). 
 
-Spencer Wood, University of Washington (USA). 
+[Agustin Vitali](https://lifewp.bgu.ac.il/wp/pilos/?page_id=353), Ben-Gurion University of the Negev (Israel). 
+
+[Spencer Wood](https://www.outdoorrd.org/), University of Washington (USA). 
 
 
 
