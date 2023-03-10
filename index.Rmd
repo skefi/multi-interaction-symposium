@@ -19,14 +19,17 @@ The goal of our proposed Satellite Symposium is to showcase recent progress made
 
 <br />
 
-### Applications for contributed talks:
 
-We welcome applications for contributed talks. Please send both the organizers an email (see below) with a **single PDF** including your name, affiliation and an asbtract of your talk (max 200 words) by **17 April 2023**. 
+### <span style="color: DarkCyan;">Applications for contributed talks</span>
+
+
+<span style="color: DarkCyan;">
+We welcome applications for contributed talks. Please send both the organizers an email (see below) with a **single PDF** including your name, affiliation and an asbtract of your talk (max 200 words) by **17 April 2023**. </span>
 
 
 <br />
 
-### Organizers:
+### Organizers
 
 Sonia Kéfi, CNRS, Montpellier, France; sonia.kefi@umontpellier.fr 
 

@@ -5,13 +5,13 @@ output: html_document
 
 <br />
 
-### Interested in applying for a talk in the symposium? 
+### <span style="color: DarkCyan;">Interested in applying for a talk in the symposium?</span>
 
-See [here](https://skefi.github.io/multi-interaction-symposium/index.html)
+<span style="color: DarkCyan;">Please send both the organizers an email with a **single PDF** including your name, affiliation and an asbtract of your talk (max 200 words) by **17 April 2023** (sonia.kefi@umontpellier.fr; pilos@bgu.ac.il).</span>
 
 <br />
 
-### Preliminary list of speakers: 
+### Invited speakers: 
 
 <br />
 
