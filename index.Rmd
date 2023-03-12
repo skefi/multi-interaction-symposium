@@ -16,7 +16,7 @@ While networks have been fundamental to our understanding of the structure, func
 
 <br />
 
-**The goal of our Satellite Symposium is to showcase recent progress made in the study of multiplex ecological and socio-ecological networks** and to discuss how these novel approaches can contribute to improving our current understanding of socio-ecological systems.
+**The goal of our Satellite Symposium is to showcase recent progress made in the study of multiplex ecological and socio-ecological networks**, and to discuss how these novel approaches can contribute to improving our current understanding of socio-ecological systems.
 
 <br />
 
@@ -34,7 +34,7 @@ Sonia Kéfi, CNRS, Montpellier, France; sonia.kefi@umontpellier.fr
 Shai Pilosof, Ben-Gurion University of the Negev, Israel; pilos@bgu.ac.il
 
 ```{r, echo=FALSE, out.width='50%', fig.align='center', fig.cap='...'}
-knitr::include_graphics('Fig_net_links-black-blue_nodes-tempsF_outdeg.png')
+knitr::include_graphics('representative_image.png')
 ```
   
 **References**
