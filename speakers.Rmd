@@ -25,8 +25,6 @@ output: html_document
 
 [Sergio Timoteo](https://cfe.uc.pt/profile/members/1700), University of Coimbra (Portugal). 
 
-[Agustin Vitali](https://lifewp.bgu.ac.il/wp/pilos/?page_id=353), Ben-Gurion University of the Negev (Israel). 
-
 [Spencer Wood](https://www.outdoorrd.org/), University of Washington (USA). 
 
 
