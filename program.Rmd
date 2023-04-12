@@ -3,4 +3,4 @@ title: "Program"
 output: html_document
 ---
 
-Under construction
+We are currently workign on the prgram, and we expect it to be online by mid-May.
