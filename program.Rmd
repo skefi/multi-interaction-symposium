@@ -3,4 +3,4 @@ title: "Program"
 output: html_document
 ---
 
-We are currently workign on the prgram, and we expect it to be online by mid-May.
+We are currently working on the prgram, and we expect it to be online by the end of May.

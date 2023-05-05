@@ -17,8 +17,6 @@ output: html_document
 
 [Kayla Hale](https://lsa.umich.edu/eeb/people/graduate-students/kayla-sale-hale.html), University of Michigan (USA). 
 
-[Angela Guerrero](https://www.qut.edu.au/about/our-people/academic-profiles/angela.guerrero), Queensland University of Technology (Australia). 
-
 [Marco A.R. Mello](https://marcomellolab.wordpress.com/), University of São Paulo (Brazil). 
 
 [Vincent Miele](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/miele-vincent), CNRS, Lyon (France). 
@@ -26,6 +24,12 @@ output: html_document
 [Sergio Timoteo](https://cfe.uc.pt/profile/members/1700), University of Coimbra (Portugal). 
 
 [Spencer Wood](https://www.outdoorrd.org/), University of Washington (USA). 
+
+[Agustin Vitali](https://lifewp.bgu.ac.il/wp/pilos/?page_id=353), Ben-Gurion University of the Negev (Israel).
+
+[Ismaël Lajaaiti](https://isem-evolution.fr/en/membre/lajaaiti/), Université de Montpellier, Montpellier (France).
+
+[Andrew K. Ringsmuth](https://www.csh.ac.at/researcher/andrew-ringsmuth/), Wegener Center for Climate and Global Change, University of Graz (Austria); Complexity Science Hub Vienna (Austria). 
 
 
 
