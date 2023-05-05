@@ -10,9 +10,11 @@ output: html_document
 
 <br />
 
+
 ### Dates and location
 
-**The symposioum will take place on 11 July 2023, and is part of the NetSci Conference, which will take place on 10-14 July 2023, Vienna**
+<span style="color: DarkCyan;"> 
+**The symposioum will take place on 11 July 2023, and is part of the NetSci Conference, which will take place on 10-14 July 2023, Vienna** </span>
 
 <br />
 

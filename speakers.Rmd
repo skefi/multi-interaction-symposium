@@ -2,13 +2,6 @@
 title: "Speakers"
 output: html_document
 ---
-
-<br />
-
-### <span style="color: DarkCyan;">Interested in applying for a talk in the symposium?</span>
-
-<span style="color: DarkCyan;">Please send both the organizers an email with a **single PDF** including your name, affiliation and an asbtract of your talk (max 200 words) by **17 April 2023** (sonia.kefi@umontpellier.fr; pilos@bgu.ac.il).</span>
-
 <br />
 
 ### Speakers: 
@@ -45,6 +38,8 @@ Authors: Ismaël Lajaaiti, Matthieu Fontaine, Jean-François Arnoldi, Virginia D
 
 In the context of global change, understanding ecosystem stability is a subject of great importance for biodiversity preservation. However, ecological stability can be measured using various metrics. This multiplicity of metrics raises the question of their interdependence, i.e.  whether they are correlated with each other or not. Previous studies addressed this point by investigating the behavior of stability metrics in trophic networks. However, in nature, species are well-known to interact in various ways other than feeding (e.g. facilitation, competition). Recent studies have shown that incorporating the diversity of interaction types in classical ecological models could resolve discrepancies between experiments and theory and drastically affect species diversity and overall biomass. However, these previous studies have mainly focused on investigating species coexistence, and, so far, very little work has been done on dynamical response to perturbations. The question of how the diversity of interactions affects the stability of ecological communities remains largely open. Here, we investigate how integrating four non-feeding interactions affects the stability of trophic communities using more than 20 different stability metrics. Specifically, we ask: how does the incorporation of non-trophic interactions in a trophic network affect stability metrics individually? Do the correlations between the stability metrics change with the incorporation of non-trophic interactions, and if yes, how? We found that these additional interactions affect the different stability metrics as well as their interdependence compared to an ecological community in which only feeding interactions are taken into account. Our results highlight the importance of incorporating the diversity of interactions into ecological theory to improve our fundamental understanding of the stability of ecological systems.
 
+<br />
+
 **We need to talk about the topology of interaction networks**
 
 Author: Marco A. R. Mello
@@ -54,6 +49,7 @@ with our collaborators along this journey. First, we will explore together what 
 graphical model was turned into an algorithmic model able to predict the four most common network topologies observed in nature. Finally, although our cognitive model was originally designed for antagonisms in monolayer networks, after a series of
 empirical tests and logical deductions it proved to apply also for mutualisms and multilayer networks. Now we are working to develop our model into a new syntactic theory. What consequences do our findings have for basic and applied Ecology?
 
+<br />
 
 **Limits to sustainable scale: multilayer social-ecological network structure constrains cooperative management of common-pool resources**
 
@@ -61,6 +57,7 @@ Authors: Isaak Mengesha, Tuan M. Pham, Andrew K. Ringsmuth
 
 Sustainable management of common-pool resources (CPR) in the absence of centralised government through, for example, informal institutions, has been seen in both field work [1] and controlled experiments with games [2]. However, this work has focused on small-scale systems and the extent to which the derived principles of social- ecological resilience might also apply at larger scales is not fully understood [3]. Here we study the scaling of CPR management dynamics in a stylized multilayer social-ecological network model. We adapt a prior evolutionary game-theoretic model in which a social network of resource harvesters adaptively choose between a selfish harvesting strategy and a socially optimal strategy, the latter being a social norm enforced by peer-to-peer sanctioning [4,5]. We extend this by adding empirically informed network structure to the resource, creating a multilayer social-ecological network model with multiscale dynamics. We formulate a coarse-graining analysis to study how large-scale dynamics emerge from interconnected local patches. Results show that resource management by peer-to-peer sanctioning is limited by network topology: at large scales, norm defectors can cluster to escape sanctioning and overharvest with impunity. This provides the first formal demonstration of scaling limits to peer-to-peer CPR management. We discuss implications for real-world sustainable governance. 
 
+<br />
 
 **Invasive species modulate the structure and stability of a multilayer mutualistic network**
 
