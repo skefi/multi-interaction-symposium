@@ -90,12 +90,28 @@ Sustainable management of common-pool resources (CPR) in the absence of centrali
 
 <br />
 
+**Connecting ecological networks across dimensions: new insights and new struggles**
+
+Author: <span style="color: DarkCyan;">Sérgio Timóteo</span> (University of Coimbra, Portugal)
+
+The use of network approaches to the study of biotic interactions has seen a noticeable increase since its introduction into the field of ecology by mid-1980s. It helped us to understand structure and functioning of whole communities, their ability to withstand or predict responses to disturbances, and even evolutionary insights. However, networks were often looked at as separate entities. Recently, multilayer networks have been adopted as a way to bridge this gap, allowing the connect and incorporate dependencies across time, space or distinct types of interactions. This new approach to ecological networks brings however new challenges. How do we connect these different layers? What should we measure and how much? How do we standardize interactions within and between layers? I will present different approaches to distinct systems, to show how ecological multilayer networks provided us with a different understanding about community functioning and species roles. On the other hand, I will reflect on some of the struggles found in carrying out those same studies.
+
+<br />
+
 **Invasive species modulate the structure and stability of a multilayer mutualistic network**
 
 Author: <span style="color: DarkCyan;"> Agustin Vitali </span> (Ben-Gurion University of the Negev, Israel)
 
-Species interactions are the backbone of the structure and dynamics of communities. The
-extensive research into the link between structure and stability has been primarily theoretical and focused on monotrophic networks. Therefore, how the disruption of multitrophic interactions alters communities' response to perturbations in nature remains an open question. Here, we explored how non-native ungulates affect pollination-seed dispersal multilayer networks in Patagonia, Argentina. Ungulates disrupt a hummingbird-mistletoe-marsupial keystone interaction, which alters community composition. We calculated interlayer connectivity, modularity, and species' roles in connecting modules for intact vs. invaded networks. To link structural changes to stability, we quantified network tolerance to a single random species removal (disturbance propagation) and sequential species removal (robustness) using a stochastic coextinction model. Non-native ungulates reduced the connectivity between pollination and seed dispersal and produced fewer modules with a skewed size distribution. Moreover, species shifted their structural role, primarily from connectors to peripherals, thereby fragmenting the network by reducing the “bridges'' among modules. These structural changes altered the dynamics of cascading effects in the community, increasing disturbance propagation and reducing network robustness. Our results highlight the importance of understanding the mechanisms that alter the structure and subsequent stability of multitrophic communities in nature.
+Species interactions are the backbone of the structure and dynamics of communities. The extensive research into the link between structure and stability has been primarily theoretical and focused on monotrophic networks. Therefore, how the disruption of multitrophic interactions alters communities' response to perturbations in nature remains an open question. Here, we explored how non-native ungulates affect pollination-seed dispersal multilayer networks in Patagonia, Argentina. Ungulates disrupt a hummingbird-mistletoe-marsupial keystone interaction, which alters community composition. We calculated interlayer connectivity, modularity, and species' roles in connecting modules for intact vs. invaded networks. To link structural changes to stability, we quantified network tolerance to a single random species removal (disturbance propagation) and sequential species removal (robustness) using a stochastic coextinction model. Non-native ungulates reduced the connectivity between pollination and seed dispersal and produced fewer modules with a skewed size distribution. Moreover, species shifted their structural role, primarily from connectors to peripherals, thereby fragmenting the network by reducing the “bridges'' among modules. These structural changes altered the dynamics of cascading effects in the community, increasing disturbance propagation and reducing network robustness. Our results highlight the importance of understanding the mechanisms that alter the structure and subsequent stability of multitrophic communities in nature.
+
+<br />
+
+**Title: TBA**
+
+Author: <span style="color: DarkCyan;">Spencer Wood</span> (University of Washington, USA)
+
+Abstract TBA
+
 
 
 
