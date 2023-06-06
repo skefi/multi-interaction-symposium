@@ -11,4 +11,4 @@ navbar:
       href: program.html
 output:
   html_document:
-    theme: simplex
+    theme: cerulean

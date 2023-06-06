@@ -28,13 +28,14 @@ output: html_document
 
 ### Abstracts: 
 
-<br />
+**We need to talk about the topology of interaction networks**
 
-**Mutualism increases diversity, stability, and function of multiplex networks that integrate pollinators into food webs**
+Author: <span style="color: DarkCyan;"> Marco A. R. Mello </span> (University of São Paulo, Brazil)
 
-Authors: <span style="color: DarkCyan;"> Kayla R. S. Hale </span> (University of Michigan, USA; University of Guelph, Canada), Fernanda S. Valdovinos (University of Michigan, USA), Neo D. Martinez (Indiana University, USA)
-
-Ecosystems are composed of complex networks of many species interacting in many ways. While ecologists have long studied food webs of feeding interactions, recent studies increasingly focus on mutualistic networks including plants that exchange food for reproductive services provided by animals such as pollinators. Here, I synthesize both types of consumer-resource interactions to study the effects of mutualism on ecosystems at the species, guild, and whole-community levels. I find that consumer-resource mechanisms underlying plant-pollinator mutualisms can increase persistence, productivity, abundance, and temporal stability of both mutualists and non-mutualists in food webs. These effects strongly increase with floral reward productivity and are qualitatively robust to variations in the prevalence of mutualism and pollinators feeding upon resources in addition to rewards. This work advances the ability of network theory to synthesize different types of interactions using common ecological mechanisms and illustrates how mutualism can enrich the diversity, stability, and function of complex ecosystems. I end with a discussion of how this theory can provide general insights for terrestrial ecosystems. 
+By investigating two classical dilemmas about interactions between organisms of different species, we arrived at an integrative solution, which we presented as a new cognitive model. In this talk, I tell this story and explain what we discovered together
+with our collaborators along this journey. First, we will explore together what the two dilemmas had in common. Second, we will see how this theoretical connection could be better understood through a graphical model. Third, we will find out how this
+graphical model was turned into an algorithmic model able to predict the four most common network topologies observed in nature. Finally, although our cognitive model was originally designed for antagonisms in monolayer networks, after a series of
+empirical tests and logical deductions it proved to apply also for mutualisms and multilayer networks. Now we are working to develop our model into a new syntactic theory. What consequences do our findings have for basic and applied Ecology?
 
 <br />
 
@@ -46,14 +47,11 @@ In the context of global change, understanding ecosystem stability is a subject 
 
 <br />
 
-**We need to talk about the topology of interaction networks**
+**Mutualism increases diversity, stability, and function of multiplex networks that integrate pollinators into food webs**
 
-Author: <span style="color: DarkCyan;"> Marco A. R. Mello </span> (University of São Paulo, Brazil)
+Authors: <span style="color: DarkCyan;"> Kayla R. S. Hale </span> (University of Michigan, USA; University of Guelph, Canada), Fernanda S. Valdovinos (University of Michigan, USA), Neo D. Martinez (Indiana University, USA)
 
-By investigating two classical dilemmas about interactions between organisms of different species, we arrived at an integrative solution, which we presented as a new cognitive model. In this talk, I tell this story and explain what we discovered together
-with our collaborators along this journey. First, we will explore together what the two dilemmas had in common. Second, we will see how this theoretical connection could be better understood through a graphical model. Third, we will find out how this
-graphical model was turned into an algorithmic model able to predict the four most common network topologies observed in nature. Finally, although our cognitive model was originally designed for antagonisms in monolayer networks, after a series of
-empirical tests and logical deductions it proved to apply also for mutualisms and multilayer networks. Now we are working to develop our model into a new syntactic theory. What consequences do our findings have for basic and applied Ecology?
+Ecosystems are composed of complex networks of many species interacting in many ways. While ecologists have long studied food webs of feeding interactions, recent studies increasingly focus on mutualistic networks including plants that exchange food for reproductive services provided by animals such as pollinators. Here, I synthesize both types of consumer-resource interactions to study the effects of mutualism on ecosystems at the species, guild, and whole-community levels. I find that consumer-resource mechanisms underlying plant-pollinator mutualisms can increase persistence, productivity, abundance, and temporal stability of both mutualists and non-mutualists in food webs. These effects strongly increase with floral reward productivity and are qualitatively robust to variations in the prevalence of mutualism and pollinators feeding upon resources in addition to rewards. This work advances the ability of network theory to synthesize different types of interactions using common ecological mechanisms and illustrates how mutualism can enrich the diversity, stability, and function of complex ecosystems. I end with a discussion of how this theory can provide general insights for terrestrial ecosystems. 
 
 <br />
 
@@ -82,13 +80,14 @@ observations at different scales.
 
 <br />
 
-**Limits to sustainable scale: multilayer social-ecological network structure constrains cooperative management of common-pool resources**
+**Invasive species modulate the structure and stability of a multilayer mutualistic network**
 
-Authors: Isaak Mengesha (University of Amsterdam, NL), Tuan M. Pham (University of Copenhagen, Denmark), <span style="color: DarkCyan;"> Andrew K. Ringsmuth </span> (University of Graz, Austria; Complexity Science Hub Vienna, Austria)
+Author: <span style="color: DarkCyan;"> Agustin Vitali </span> (Ben-Gurion University of the Negev, Israel)
 
-Sustainable management of common-pool resources (CPR) in the absence of centralised government through, for example, informal institutions, has been seen in both field work [1] and controlled experiments with games [2]. However, this work has focused on small-scale systems and the extent to which the derived principles of social- ecological resilience might also apply at larger scales is not fully understood [3]. Here we study the scaling of CPR management dynamics in a stylized multilayer social-ecological network model. We adapt a prior evolutionary game-theoretic model in which a social network of resource harvesters adaptively choose between a selfish harvesting strategy and a socially optimal strategy, the latter being a social norm enforced by peer-to-peer sanctioning [4,5]. We extend this by adding empirically informed network structure to the resource, creating a multilayer social-ecological network model with multiscale dynamics. We formulate a coarse-graining analysis to study how large-scale dynamics emerge from interconnected local patches. Results show that resource management by peer-to-peer sanctioning is limited by network topology: at large scales, norm defectors can cluster to escape sanctioning and overharvest with impunity. This provides the first formal demonstration of scaling limits to peer-to-peer CPR management. We discuss implications for real-world sustainable governance. 
+Species interactions are the backbone of the structure and dynamics of communities. The extensive research into the link between structure and stability has been primarily theoretical and focused on monotrophic networks. Therefore, how the disruption of multitrophic interactions alters communities' response to perturbations in nature remains an open question. Here, we explored how non-native ungulates affect pollination-seed dispersal multilayer networks in Patagonia, Argentina. Ungulates disrupt a hummingbird-mistletoe-marsupial keystone interaction, which alters community composition. We calculated interlayer connectivity, modularity, and species' roles in connecting modules for intact vs. invaded networks. To link structural changes to stability, we quantified network tolerance to a single random species removal (disturbance propagation) and sequential species removal (robustness) using a stochastic coextinction model. Non-native ungulates reduced the connectivity between pollination and seed dispersal and produced fewer modules with a skewed size distribution. Moreover, species shifted their structural role, primarily from connectors to peripherals, thereby fragmenting the network by reducing the “bridges'' among modules. These structural changes altered the dynamics of cascading effects in the community, increasing disturbance propagation and reducing network robustness. Our results highlight the importance of understanding the mechanisms that alter the structure and subsequent stability of multitrophic communities in nature.
 
 <br />
+
 
 **Connecting ecological networks across dimensions: new insights and new struggles**
 
@@ -98,11 +97,12 @@ The use of network approaches to the study of biotic interactions has seen a not
 
 <br />
 
-**Invasive species modulate the structure and stability of a multilayer mutualistic network**
 
-Author: <span style="color: DarkCyan;"> Agustin Vitali </span> (Ben-Gurion University of the Negev, Israel)
+**Limits to sustainable scale: multilayer social-ecological network structure constrains cooperative management of common-pool resources**
 
-Species interactions are the backbone of the structure and dynamics of communities. The extensive research into the link between structure and stability has been primarily theoretical and focused on monotrophic networks. Therefore, how the disruption of multitrophic interactions alters communities' response to perturbations in nature remains an open question. Here, we explored how non-native ungulates affect pollination-seed dispersal multilayer networks in Patagonia, Argentina. Ungulates disrupt a hummingbird-mistletoe-marsupial keystone interaction, which alters community composition. We calculated interlayer connectivity, modularity, and species' roles in connecting modules for intact vs. invaded networks. To link structural changes to stability, we quantified network tolerance to a single random species removal (disturbance propagation) and sequential species removal (robustness) using a stochastic coextinction model. Non-native ungulates reduced the connectivity between pollination and seed dispersal and produced fewer modules with a skewed size distribution. Moreover, species shifted their structural role, primarily from connectors to peripherals, thereby fragmenting the network by reducing the “bridges'' among modules. These structural changes altered the dynamics of cascading effects in the community, increasing disturbance propagation and reducing network robustness. Our results highlight the importance of understanding the mechanisms that alter the structure and subsequent stability of multitrophic communities in nature.
+Authors: Isaak Mengesha (University of Amsterdam, NL), Tuan M. Pham (University of Copenhagen, Denmark), <span style="color: DarkCyan;"> Andrew K. Ringsmuth </span> (University of Graz, Austria; Complexity Science Hub Vienna, Austria)
+
+Sustainable management of common-pool resources (CPR) in the absence of centralised government through, for example, informal institutions, has been seen in both field work [1] and controlled experiments with games [2]. However, this work has focused on small-scale systems and the extent to which the derived principles of social- ecological resilience might also apply at larger scales is not fully understood [3]. Here we study the scaling of CPR management dynamics in a stylized multilayer social-ecological network model. We adapt a prior evolutionary game-theoretic model in which a social network of resource harvesters adaptively choose between a selfish harvesting strategy and a socially optimal strategy, the latter being a social norm enforced by peer-to-peer sanctioning [4,5]. We extend this by adding empirically informed network structure to the resource, creating a multilayer social-ecological network model with multiscale dynamics. We formulate a coarse-graining analysis to study how large-scale dynamics emerge from interconnected local patches. Results show that resource management by peer-to-peer sanctioning is limited by network topology: at large scales, norm defectors can cluster to escape sanctioning and overharvest with impunity. This provides the first formal demonstration of scaling limits to peer-to-peer CPR management. We discuss implications for real-world sustainable governance. 
 
 <br />
 

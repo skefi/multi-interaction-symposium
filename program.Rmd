@@ -3,4 +3,17 @@ title: "Program"
 output: html_document
 ---
 
-We are currently working on the program, and we expect it to be online by the end of May.
+| Time   | Speaker | Title                            |
+|:--------|:---------|:----------------------------------|
+| 14:00  | Sonia Kefi | Opening                         |
+| 14:10  | Marco Mello | _We need to talk about the topology of interaction networks_ |
+| 14:30  | Ismaël Lajaaiti | _How do non-trophic interactions shape ecological stability?_ |
+| 14:50  | Kayla Hale  | _Mutualism increases diversity, stability, and function of multiplex networks that integrate pollinators into food webs_ |
+| 15:10  | Vincent Miele  |_Exploring the multiplex metanetwork of North American bird interactions_|
+| 15:30  | -       | Coffee Break                     |
+| 16:00  | Agustin Vitali | _Invasive species modulate the structure and stability of a multilayer mutualistic network_|
+| 16:20  | Sergio Timoteo | _Connecting ecological networks across dimensions: new insights and new struggles_  |
+| 16:40  | Andrew K. Ringsmuth | _Limits to sustainable scale: multilayer social-ecological network structure constrains cooperative management of common-pool resources_  |
+| 17:00  | Spencer Wood | TBD                         |
+| 17:15  | Shai Pilosof & Sonia Kefi  | Conclusion and discussion Panel |
+
