@@ -20,8 +20,6 @@ output: html_document
 
 ### About
 
-<br />
-
 While networks have been fundamental to our understanding of the structure, function, and dynamics of socio-ecological systems, they typically include a single interaction type at a time (e.g., facilitation or competition) [1,3]. Nevertheless, in reality, agents (such as species or people) are clearly connected by a myriad of interaction types simultaneously [4,5,7]. Advances in the theory of ‘multilayer’ networks [2,6] provided a promising approach to incorporate multiple interaction types in our descriptions of ecological networks (leading to multiplex networks). One particular application is that of socio-ecological systems, in which layers represent social (e.g., fishermen, policy makers) and ecological (e.g., food webs) systems. Nevertheless, to date ecological and socio-ecological multiplex networks have been understudied. Therefore, we lack an understanding of how multiple social and ecological interaction types affect the dynamics and stability of ecological systems. Developing this theory is crucial in the anthropocene because multiplex structures affect the response of ecological systems to anthropogenic perturbations. 
 
 <br />
@@ -29,7 +27,6 @@ While networks have been fundamental to our understanding of the structure, func
 **The goal of our Satellite Symposium is to showcase recent progress made in the study of multiplex ecological and socio-ecological networks**, and to discuss how these novel approaches can contribute to improving our current understanding of socio-ecological systems.
 
 <br />
-
 
 ### Organizers
 
@@ -40,7 +37,8 @@ Shai Pilosof, Ben-Gurion University of the Negev, Israel; pilos@bgu.ac.il
 ```{r, echo=FALSE, out.width='50%', fig.align='center', fig.cap='...'}
 knitr::include_graphics('representative_image.png')
 ```
-  
+
+<br />
 **References**
 
 [1] Bascompte, J., Jordano, P., Melián, C. J. & Olesen, J. M. The nested assembly of plant–animal mutualistic networks. PNAS 100, 9383–9387 (2003).
