@@ -17,6 +17,6 @@ Please see the [Speaker tab](https://skefi.github.io/multi-interaction-symposium
 | 15:30  | -       | <span style="color: DarkCyan;"> Coffee Break</span>                     |
 | 16:00  | Agustin Vitali | _Invasive species modulate the structure and stability of a multilayer mutualistic network_|
 | 16:20  | Sergio Timoteo | _Connecting ecological networks across dimensions: new insights and new struggles_  |
-| 16:40  | Spencer Wood | TBD                         |
+| 16:40  | Spencer Wood | _Human and cultural dimensions of cultural networks_                  |
 | 17:00  | Shai Pilosof & Sonia Kefi  | Conclusion and discussion |
 
