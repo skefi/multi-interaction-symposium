@@ -17,7 +17,6 @@ Please see the [Speaker tab](https://skefi.github.io/multi-interaction-symposium
 | 15:30  | -       | <span style="color: DarkCyan;"> Coffee Break</span>                     |
 | 16:00  | Agustin Vitali | _Invasive species modulate the structure and stability of a multilayer mutualistic network_|
 | 16:20  | Sergio Timoteo | _Connecting ecological networks across dimensions: new insights and new struggles_  |
-| 16:40  | Andrew K. Ringsmuth | _Limits to sustainable scale: multilayer social-ecological network structure constrains cooperative management of common-pool resources_  |
-| 17:00  | Spencer Wood | TBD                         |
-| 17:20  | Shai Pilosof & Sonia Kefi  | Conclusion and discussion |
+| 16:40  | Spencer Wood | TBD                         |
+| 17:00  | Shai Pilosof & Sonia Kefi  | Conclusion and discussion |
 
